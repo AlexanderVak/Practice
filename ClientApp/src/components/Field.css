@@ -1,0 +1,21 @@
+.field {
+  border: 1px solid #000;
+  table-layout: fixed;
+  width: 408px;
+  height: 408px;  
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.square {
+  border: 1px solid #000;
+  height: 136px;
+  table-layout: fixed;
+  width: 136px;
+  border-collapse: collapse;
+  text-align: center;
+  font-size: 100px;
+  margin: auto;  
+}
